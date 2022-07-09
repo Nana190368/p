@@ -1,1 +1,9 @@
-
+[
+          { //República del Río Grande's
+                "name": "Museo del Desierto",
+		"isNationalWonder": true,
+                "cost": 150,
+                "requiredTech": "Archaeology"
+                "science": 3,
+                "culture": 2,
+                "percentStatBonus": {"science": 15} ,
