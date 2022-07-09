@@ -5,5 +5,7 @@
                 "cost": 150,
                 "requiredTech": "Archaeology"
                 "science": 3,
-                "culture": 2,
-                "percentStatBonus": {"science": 15} ,
+                "culture": 3,
+                "happiness": 2,
+                "percentStatBonus": {"science": 15},
+                "uniqueTo": "República del Río Grande"
