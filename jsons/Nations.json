@@ -2,38 +2,39 @@
     {
 
         "name": "República del Río Grande",
-        "leaderName": "Ramón Ayala",
+        "leaderName": "Lupe Tijerina",
         "adjective": ["Norteño"],
         "outerColor": [173,161,161],
         "innerColor": [0,56,168],
 
         "startBias": ["Desert"],
-        "preferredVictoryType": "Cultural",
+        "preferredVictoryType": "Domination",
         "favoredReligion": "Christianity",
        
-        "startIntroPart1": "Fierro pariente, renació la República del Río Grande",
-        "startIntroPart2": "Ámonos recio apa",
+        "startIntroPart1": "Fierro pariente, renació la República del Río Grande, tierra de hombres honrados y trabajadores",
+        "startIntroPart2": "Amonos recio apa",
 
-        "introduction":  "Que onda primo, bienvenido a nuestra República, aquí traigo las plebitas y las caguamas, amonos recio compadre.",        "declaringWar": "Ire compa, usted ya está muerto, nomás le andamos avisando.",
-        "attacked": "Ijuesuchingadamadre usted anda macizo compa",
+        "introduction":  "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
+        "declaringWar": "Ire compa, usted ya está muerto, nomás le andamos avisando.",
+        "attacked": "Hermano cayó la ley, está rodeada tu casa...",
         "afterPeace": "Alchile no se que poner aquí",
-        "defeated": "Ni pedo pariente, ahí nos fuimos, echenle mis Cardenales",
+        "defeated": "Valió madre compadre, aquí acaba el corrido.",
       
         "neutralHello": "Pasele primo",
         "hateHello": "Que chingados quieres?.",
 
-        "tradeRequest": "Wachese padrino, aquí le traigo unos negocio, jala o se enclocha?",
-        "neutralLetsHearIt": "Amos a ver pues",
-        "hateLetsHearIt": "Ne pos ta cabron.",
-        "neutralNo": "No me ande con jaladas padrino",
-        "neutralYes": "Simón, usted echele",
-        "hateNo": "Ire cabrón, este negocio, es una mamada",
-        "hateYes": "Ta bien pues",
+        "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
+        "neutralLetsHearIt": "",
+        "hateLetsHearIt": "",
+        "neutralNo": "",
+        "neutralYes": ""
+        "hateNo": "",
+        "hateYes": "",
 
-        "uniqueName": "Avanzada Regia",
+        "uniqueName": "Noreste Caliente",
         "uniques": ["[+2 Happiness] from every [Horses]","[+2 Production] from every [Factory]"],
 
-        "cities": ["Monterrey","Saltillo","Tampico","San Pedro Garza","Torreón","Ciudad Victoria","Santa Catarina","Piedras Negras","Matamoros"]
+        "cities": ["Saltillo","Monterrey","Tampico","San Pedro Garza","Torreón","Ciudad Victoria","Santa Catarina","Piedras Negras","Matamoros"]
 
     },
 ]
