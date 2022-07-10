@@ -4,10 +4,10 @@
 		"isNationalWonder": true,
                 "cost": 150,
                 "requiredTech": "Archaeology"
-                "science": 3,
+                "science": 2,
                 "culture": 3,
                 "happiness": 2,
-                "percentStatBonus": {"science": 15},
+                "percentStatBonus": {"science": 5},
                 "uniqueTo": "República del Río Grande"
 
     },
