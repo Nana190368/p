@@ -1,14 +1,14 @@
 [
-          { //República del Río Grande's
+          { //Coahuila de Zaragoza's
                 "name": "Museo del Desierto",
 		"isNationalWonder": true,
-                "cost": 150,
+                "cost": 250,
                 "requiredTech": "Archaeology"
-                "science": 2,
+                "science": 1,
                 "culture": 3,
                 "happiness": 2,
-                "percentStatBonus": {"science": 5},
-                "uniqueTo": "República del Río Grande"
+                "percentStatBonus": {"science": 15},
+                "uniqueTo": "Coahuila de Zaragoza"
 
     },
 ]
