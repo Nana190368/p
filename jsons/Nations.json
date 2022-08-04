@@ -4,13 +4,13 @@
         "name": "Coahuila de Zaragoza",
         "leaderName": "General Nanastacia Madero",
         "adjective": ["Coahuilense"],
-        "outerColor": [173,161,161],
-        "innerColor": [0,56,168],
+        "outerColor": [19,180,46],
+        "innerColor": [255,255,255],
 
         "startBias": ["Desert"],
         "preferredVictoryType": "Domination",
                
-        "startIntroPart1": "",
+        "startIntroPart1": "C",
         "startIntroPart2": "Amonos recio apa",
 
         "introduction":  "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
