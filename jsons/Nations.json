@@ -1,17 +1,16 @@
 [
     {
 
-        "name": "República del Río Grande",
-        "leaderName": "Lupe Tijerina",
-        "adjective": ["Norteño"],
+        "name": "Coahuila de Zaragoza",
+        "leaderName": "Nanastacia I",
+        "adjective": ["Coahuilense"],
         "outerColor": [173,161,161],
         "innerColor": [0,56,168],
 
         "startBias": ["Desert"],
         "preferredVictoryType": "Domination",
-        "favoredReligion": "Christianity",
-       
-        "startIntroPart1": "Fierro pariente, renació la República del Río Grande, tierra de hombres honrados y trabajadores",
+               
+        "startIntroPart1": "",
         "startIntroPart2": "Amonos recio apa",
 
         "introduction":  "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
@@ -22,19 +21,12 @@
       
         "neutralHello": "Pasele primo",
         "hateHello": "Que chingados quieres?.",
-
         "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
-        "neutralLetsHearIt": "",
-        "hateLetsHearIt": "",
-        "neutralNo": "",
-        "neutralYes": ""
-        "hateNo": "",
-        "hateYes": "",
-
-        "uniqueName": "Noreste Caliente",
+             
+        "uniqueName": "Comarca Lagunera",
         "uniques": ["[+2 Happiness] from every [Horses]","[+2 Production] from every [Factory]"],
 
-        "cities": ["Saltillo","Monterrey","Tampico","San Pedro Garza","Torreón","Ciudad Victoria","Santa Catarina","Piedras Negras","Matamoros"]
+        "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
 ]
