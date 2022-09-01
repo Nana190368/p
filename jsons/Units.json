@@ -1,6 +1,5 @@
-[
-   {  
-     // Coahuila de Zaragoza's
+[ 
+     { // Coahuila de Zaragoza's
 	"name": "Guerrero Kikapú",
 	"replaces": "Warrior",
 	"unitType": "Sword",
@@ -11,5 +10,5 @@
 	"upgradesTo": "Swordsman",
 	"uniqueTo": "Coahuila de Zaragoza",
 	"uniques": ["May upgrade to [Spearman] through ruins-like effects","Double Movement in [Hills] and [Forest]]
-    }
+    },
 ]
