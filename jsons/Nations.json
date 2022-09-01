@@ -24,8 +24,7 @@
         "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
              
         "uniqueName": "Guerreros de la Dunas",
-        "uniques": ["["],
-
+        "uniques": ["[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+50]% Strength <when fighting in [Desert] tiles>"],
         "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
