@@ -3,12 +3,12 @@
    {
 	"name": "Guerrero Kikapú",
 	"replaces": "Warrior",
-	"unitType": "Melee",
+	"unitType": "Sword",
 	"movement": 2,
-	"strength": 15,
-	"cost": 0,
+	"strength": 14,
+	"cost": 40,
 	"requiredTech": "Agriculture",
-	"obsoleteTech": "Iron",
+	"obsoleteTech": "Metal Casting",
 	"upgradesTo": "Swordsman",
 	"uniqueTo": "Coahuila de Zaragoza",
 	"uniques": ["May upgrade to [Spearman] through ruins-like effects","Double Movement in [Hills] and [Forest]]
