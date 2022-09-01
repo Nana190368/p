@@ -1,0 +1,14 @@
+[
+       // Coahuila de Zaragoza's
+   {
+	"name": "Guerrero Kikapú",
+	"replaces": "Warrior",
+	"unitType": "Melee",
+	"movement": 2,
+	"strength": 15,
+	"cost": 0,
+	"requiredTech": "Agriculture",
+	"obsoleteTech": "Iron",
+	"upgradesTo": "Swordsman",
+	"uniqueTo": "Coahuila de Zaragoza",
+	"uniques": [""]
