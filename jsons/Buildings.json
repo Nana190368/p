@@ -11,4 +11,15 @@
                 "uniqueTo": "Coahuila de Zaragoza"
 
     },
+    {
+		"name": "Jaripeo",
+		"replaces": "Circus",
+		"cost": 1,
+		"hurryCostModifier": 40,
+		"requiredNearbyImprovedResources": ["Cattle"],
+		"requiredTech": "Animal Hunting",
+		"maintenance": 1,
+		"gold": 1,
+		"happiness": 3,		
+    },
 ]
