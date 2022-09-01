@@ -18,6 +18,8 @@
 		"requiredNearbyImprovedResources": ["Cattle","Horses"],
 		"requiredTech": "Trapping",
 		"maintenance": 1,
-		"happiness": 3,		
+		"happiness": 3,	
+                "uniqueTo": "Coahuila de Zaragoza",
+		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"],	
     },
 ]
