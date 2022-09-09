@@ -2,12 +2,11 @@
           { //Coahuila de Zaragoza's
                 "name": "Museo del Desierto",
 		"isNationalWonder": true,
-                "cost": 250,
+                "cost": 300,
                 "requiredTech": "Archaeology"
-                "science": 1,
-                "culture": 3,
-                "happiness": 2,
-                "percentStatBonus": {"science": 15},
+                "science": 5,
+                "culture": 5,                
+                "unique": 
                 "uniqueTo": "Coahuila de Zaragoza"
 
     },
@@ -20,6 +19,6 @@
 		"maintenance": 1,
 		"happiness": 3,	
                 "uniqueTo": "Coahuila de Zaragoza",
-		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"],["[+1 Happiness] from every [Horses] [in this city]"]	
+		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"],["[+1 Happiness] from every [Pasture] [in this city]"]	
     },
 ]
