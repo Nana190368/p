@@ -19,6 +19,6 @@
 		"maintenance": 1,
 		"happiness": 3,	
                 "uniqueTo": "Coahuila de Zaragoza",
-		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"],["[+1 Happiness] from every [Pasture]"]	
+		"uniques": ["All newly-trained [Mounted] units [in all cities] receive the [Shock I] promotion"]	
     },
 ]
