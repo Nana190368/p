@@ -4,8 +4,8 @@
 		"isNationalWonder": true,
                 "cost": 300,
                 "requiredTech": "Archaeology"
-                "science": 5,
-                "culture": 5,                
+                "science": 2,
+                "culture": 4,                
                 "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"]
                 "uniqueTo": "Coahuila de Zaragoza"
     },
