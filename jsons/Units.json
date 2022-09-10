@@ -9,7 +9,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-                "promotions": [Cover I],
+                "promotions": ["Cover I"],
                 "uniqueTo": "Coahuila de Zaragoza",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
