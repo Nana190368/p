@@ -1,14 +1,15 @@
 [
 	{
-		"name": "Guerrero Coahuilteca",
-		"unitType": "Sword",
+		"name": "Guerrero Toboso",
+		"unitType": "Archery",
 		"movement": 2,
-		"strength": 12,
+		"strength": 8,
+		"rangedStrength": 9,
 		"cost": 40,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-                "uniqueTo": "Coahuila de Zaragoza"
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit",
-         },
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+                "uniqueTo": "Coahuila de Zaragoza",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow"
+	},
 ]
