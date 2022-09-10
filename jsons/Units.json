@@ -24,7 +24,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
                 "uniqueTo": "Coahuila de Zaragoza"
-                "uniques": ["[+15%] Strength <when adjacent to a [{Civilian}{Military}] unit>
+                "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
 	},
