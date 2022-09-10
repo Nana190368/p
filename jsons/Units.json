@@ -2,12 +2,14 @@
 	{
 		"name": "Guerrero Toboso",
 		"unitType": "Archery",
+                "replaces": "Archer"
 		"movement": 2,
 		"strength": 8,
-		"rangedStrength": 9,
+		"rangedStrength": 8,
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
+                "promotions": [Cover I],
                 "uniqueTo": "Coahuila de Zaragoza",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
