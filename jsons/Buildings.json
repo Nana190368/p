@@ -6,12 +6,13 @@
                 "requiredTech": "Archaeology"
                 "science": 5,
                 "culture": 5,                
-                "unique": ["[+1 Science] from every [Desert] tiles [in this city]"]
+                "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"]
                 "uniqueTo": "Coahuila de Zaragoza"
     },
     {
 		"name": "Jaripeo",
 		"replaces": "Circus",
+                "cost": 100,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": ["Cattle","Horses"],
 		"requiredTech": "Trapping",
