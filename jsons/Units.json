@@ -9,7 +9,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-                "uniques": ["[Toboso] hability"],
+                "promotions": ["[Toboso] ability"],
                 "uniqueTo": "Coahuila de Zaragoza",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
