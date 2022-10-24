@@ -15,8 +15,8 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Constitucionalista",
-		"unitType": "Gunpowder",
+		"name": "Orden de Chernabog",
+		"unitType": "Mounted",
                 "replaces": "Rifleman"
 		"movement": 2,
 		"strength": 34,
