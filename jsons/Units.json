@@ -18,14 +18,15 @@
 		"name": "Orden de Chernabog",
 		"unitType": "Mounted",
                 "replaces": "Knight"
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"requiredTech": "Cavalry",
-		"obsoleteTech": "Replaceable Parts",
+		"movement": 4,
+		"strength": 25,
+		"cost": 115,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"obsoleteTech": "Military Science",
                 "uniqueTo": "Rodislavia"
                 "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
-		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"upgradesTo": "Cavalry",
+		"attackSound": "horse"
 	},
 ]
