@@ -1,19 +1,19 @@
 [
     {
 
-        "name": "Coahuila de Zaragoza",
-        "leaderName": "Nana Nastasić",
+        "name": "Rodislavia",
+        "leaderName": "Nana Nemanjić",
         "adjective": ["Coahuilense"],
         "outerColor": [19,180,46],
         "innerColor": [255,255,255],
 
-        "startBias": ["Desert"],
+        "startBias": ["Snow"],["Forest"],["Tundra"],
         "preferredVictoryType": "Domination",
                
         "startIntroPart1": "C",
         "startIntroPart2": "Amonos recio apa",
 
-        "introduction":  "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
+        "introduction": "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
         "declaringWar": "Ire compa, usted ya está muerto, nomás le andamos avisando.",
         "attacked": "Hermano cayó la ley, está rodeada tu casa...",
         "afterPeace": "Alchile no se que poner aquí",
@@ -28,4 +28,3 @@
         "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
-]
