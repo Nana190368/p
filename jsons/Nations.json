@@ -5,7 +5,7 @@
         "leaderName": "Nana II Nemanjić",
         "adjective": ["Rodislavo"],
         "outerColor": [0, 56, 147],
-        "innerColor": [221,0,0],
+        "innerColor": [255,255,255],
 
         "startBias": ["Snow","Forest","Tundra"],
         "preferredVictoryType": "Domination",
@@ -25,7 +25,7 @@
              
         "uniqueName": "La Bendición de Perún",
         "uniques": ["Great General provides double combat bonus", "[+15]% Strength <when fighting in [Forest],[Snow],[Tundra] tiles>"],
-        "cities": ["Zvezdgrad","Mokoshgrad","Welesgrad","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
+        "cities": ["Zvezdigrado","Mokoshgrad","Welesgrad","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
 ]
