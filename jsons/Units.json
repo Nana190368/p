@@ -10,7 +10,7 @@
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
                 "promotions": ["[Toboso] ability"],
-                "uniqueTo": "Coahuila de Zaragoza",
+                "uniqueTo": "Rodislavia",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
