@@ -15,7 +15,7 @@
 
         "introduction": "Bienvenido caballero, soy Nana II, gobernadora y protectora de todos los eslavos.",
         "declaringWar": "Los dioses de la guerra me han pedido sangre en sacrificio y su sangre es lo que obtendrán.",
-        "attacked": "Reza y suplica por tu vida, .",
+        "attacked": "Reza y suplica por tu vida, y que Nemiza se apodere de tu alma cuando termine contigo.",
         "afterPeace": "Que la paz y las bendiciones sean con usted.",
         "defeated": "Me voy con la cabeza en alto, porque mi pueblo se ha unido en uno solo. ¡Gloria eterna al pueblo eslavo!",
       
@@ -24,7 +24,7 @@
         "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
              
         "uniqueName": "Guerreros de la Dunas",
-        "uniques": ["Great General provides double combat bonus", "[+25]% Strength <when fighting in [Desert] tiles>"],
-        "cities": ["Zvezgrad","","","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
+        "uniques": ["Great General provides double combat bonus", "[+15]% Strength <when fighting in [Forest],[Snow],[Tundra] tiles>"],
+        "cities": ["Zvezdgrad","Mokoshgrad","Welesgrad","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
