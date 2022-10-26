@@ -7,7 +7,7 @@
                 "science": 2,
                 "culture": 4,                
                 "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"]
-                "uniqueTo": "Coahuila de Zaragoza"
+                "uniqueTo": "Rodislavia"
     },
     {
 		"name": "Jaripeo",
@@ -18,7 +18,7 @@
 		"requiredTech": "Trapping",
 		"maintenance": 1,
 		"happiness": 3,	
-                "uniqueTo": "Coahuila de Zaragoza",
+                "uniqueTo": "Rodislavia",
 		"uniques": ["All newly-trained [Mounted] units [in this city] receive the [Shock I] promotion"]	
     },
 ]
