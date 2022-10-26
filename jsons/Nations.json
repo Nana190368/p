@@ -4,8 +4,8 @@
         "name": "Rodislavia",
         "leaderName": "Nana II Nemanjić",
         "adjective": ["Rodislavo"],
-        "outerColor": [19,180,46],
-        "innerColor": [255,255,255],
+        "outerColor": [0, 56, 147],
+        "innerColor": [221,0,0],
 
         "startBias": ["Snow","Forest","Tundra"],
         "preferredVictoryType": "Domination",
