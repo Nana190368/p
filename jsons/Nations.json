@@ -7,7 +7,7 @@
         "outerColor": [19,180,46],
         "innerColor": [255,255,255],
 
-        "startBias": ["Snow"],["Forest"],["Tundra"],
+        "startBias": ["Snow","Forest","Tundra"],
         "preferredVictoryType": "Domination",
                
 //        "startIntroPart1": "",
