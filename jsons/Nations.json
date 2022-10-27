@@ -24,7 +24,7 @@
         "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
              
         "uniqueName": "La Bendición de Perún",
-        "uniques": ["Great General provides double combat bonus", "[+15]% Strength <when fighting in [Forest],[Snow],[Tundra] tiles>"],
+        "uniques": ["Great General provides double combat bonus", "[+15]% Strength <when fighting in [Forest], [Snow], or [Tundra] tiles>"],
         "cities": ["Zvezdigrado","Mokoshgrad","Welesgrad","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
 
     },
