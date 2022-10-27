@@ -5,7 +5,7 @@
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
 		"uniqueTo": "Rodislavia",
-		"uniques": ["uniques"],
+		"uniques": ["[+2 Gold] <after discovering [Currency]>","[+2 Food] <after discovering [Civil Service]>","[+2 Faith] <after discovering [Theology]>"],
 		"shortcutKey": "F",
 	},
 
