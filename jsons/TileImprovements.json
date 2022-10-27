@@ -1,0 +1,12 @@
+[
+     {
+		"name": "Pogost",
+		"terrainsCanBeBuiltOn": ["Hill","Snow","Tundra"],
+		"turnsToBuild": 7,
+		"techRequired": "Construction",
+		"uniqueTo": "Rodislavia",
+		"uniques": ["uniques"],
+		"shortcutKey": "F",
+	},
+
+]
