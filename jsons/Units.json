@@ -19,13 +19,13 @@
 		"unitType": "Mounted",
                 "replaces": "Knight"
 		"movement": 4,
-		"strength": 25,
+		"strength": 18,
 		"cost": 115,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"obsoleteTech": "Military Science",
                 "uniqueTo": "Rodislavia"
-                "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
+                "uniques": ["[-33]% Strength <vs cities>","Can move after attacking","Earn [3]% of killed [Land] unit's [Strength] as [Gold]","May capture killed [Land] units <with [50]% chance>"],
 		"upgradesTo": "Cavalry",
 		"attackSound": "horse"
 	},
